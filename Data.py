@@ -11,7 +11,7 @@ Welcome to {}
 I can generate pyrogram and telethon string session . 
 Use the below button and go ahead !
 
-By @NotrealPranay
+By @Tanishq_kasar
     """
 
     # Home Button
@@ -27,13 +27,11 @@ By @NotrealPranay
     # Rest Buttons
     buttons = [
         [InlineKeyboardButton("🔥 Start Generating Session 🔥", callback_data="generate")],
-        [InlineKeyboardButton(" Give a Star ⭐", url="https://github.com/Pranay5463/String-Session-Generator_Bot")],
+        [InlineKeyboardButton(" Give a Star ⭐", url="https://github.com/https://github.com/Tanishqkasar19/string-session-generator")],
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
-        ],
-        [InlineKeyboardButton(" Get Help ↗️", url="https://t.me/+9SetglBX6YY0OWRh")],
-    ]
+        ]
 
     # Help Message
     HELP = """
@@ -51,13 +49,13 @@ By @NotrealPranay
     ABOUT = """
 **About This Bot** 
 
-A telegram bot to generate pyrogram and telethon string session by @NotrealPranay
+A telegram bot to generate pyrogram and telethon string session by @Tanishq_kasar
 
-Source Code : [Click Here](https://github.com/Pranay5463/String-Session-Generator_Bot)
+Source Code : [Click Here](https://github.com/Tanishqkasar19/string-session-generator)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @NotrealPranay
+Developer : @Tanishq_kasar
     """
