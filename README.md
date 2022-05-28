@@ -4,7 +4,7 @@
 > Please give us a ⭐ which will mean a lot !
 
 ## Demo Bot:
-<a href="https://t.me/StringSessionGeneratorz_bot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
+<a href="https://t.me/Session_String_Generate_bot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
 
 ## Configs:
 - `API_HASH` - Get it from [my.telegram.org](https://my.telegram.org/auth)
@@ -13,13 +13,11 @@
 - `MUST_JOIN` - Username/ID of your telegram channel/group .
 
 ## Deploy Now: 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Pranay5463/String-Session-Generator_Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Tanishqkasar19/string-session-generator)
 
-## Support Group:
-<a href="https://t.me/+9SetglBX6YY0OWRh"><img src="https://img.shields.io/badge/Telegram-get help on %20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ## Coded By
-- [Pranay Prangan](https://github.com/Pranay5463)
+- [Tanishq_kasar](https://github.com/Tanishqkasar19)
 - Rest goes to respective owner
 
 ## Note:
@@ -27,11 +25,11 @@ This repo is uploaded manually instead of forking. The credit of this repo goes 
 
 ## Follow on:
 <p align="left">
-<a href="https://github.com/Pranay5463"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+<a href="https://github.com/Tanishqkasar19"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
 </p>
 <p align="left">
-<a href="https://t.me/NotrealPranay"><img src="https://img.shields.io/badge/Telegram-Message%20on%20Telegram-blue.svg?logo=telegram"></a>
+<a href="https://t.me/tanishq_kasar"><img src="https://img.shields.io/badge/Telegram-Message%20on%20Telegram-blue.svg?logo=telegram"></a>
 </p>
 <p align="left">
-<a href="https://instagram.com/dark_elite_98"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
+<a href="https://instagram.com/tanishq_kasar"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
 </p>
