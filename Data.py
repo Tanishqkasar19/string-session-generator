@@ -27,7 +27,7 @@ By @Tanishq_kasar
     # Rest Buttons
     buttons = [
         [InlineKeyboardButton("🔥 Start Generating Session 🔥", callback_data="generate")],
-        [InlineKeyboardButton(" Give a Star ⭐", url="https://github.com/https://github.com/Tanishqkasar19/string-session-generator")],
+        [InlineKeyboardButton(" Give a Star ⭐", url="https://github.com/Tanishqkasar19/string-session-generator")],
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
