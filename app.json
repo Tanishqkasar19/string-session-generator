@@ -1,0 +1,56 @@
+{
+  "name": "Pyrogram and Telethon String Session Generator",
+  "description": "Telegram bot to generate pyrogram and telethon string session",
+  "logo": "https://telegra.ph/file/c194bf05822e178b46dcd.png",
+  "keywords": [
+    "telegram",
+    "bot",
+    "python",
+    "pyrogram"
+  ],
+    "buildpacks": [{
+    "url": "heroku/python"
+  }],
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "free"
+    }
+  },
+  "addons": [
+      {
+         "options": {
+            "version": "12"
+         },
+         "plan": "heroku-postgresql"
+      }
+   ],
+  "repository": "https://github.com/Pranay5463/String-Session-Generator_Bot",
+  "env": {
+    "ENVIRONMENT": {
+      "description": "Don't change ANYTHING.",
+      "required": true,
+      "value": "ANYTHING"
+    },
+    "API_ID": {
+      "description": "Get it from my.telegram.org.",
+      "required": true,
+      "value": ""
+    },
+    "API_HASH": {
+      "description": "Get it from my.telegram.org.",
+      "required": true,
+      "value": ""
+    },
+    "BOT_TOKEN": {
+      "description": "Get your bot token from @BotFather",
+      "required": true,
+      "value": ""
+    },
+    "MUST_JOIN": {
+      "description": "Add username/id of a channel/group",
+      "required": false,
+      "value": ""
+    }
+  }
+}
